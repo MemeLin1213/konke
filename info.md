@@ -17,3 +17,5 @@ switch:
 电报频道    :https://t.me/itcommander
 Twitter    :https://twitter.com/itcommander2
 Facebook.  :https://www.facebook.com/itcommander.itcommander.1
+
+在IT Commander大佬的肩膀上做了一些修改，支持最新的2022.2.3
